@@ -7,11 +7,11 @@
 
 # Files to ignore
 sandbox.py
+commit_message.txt
 
 # Project Data files
 *.xlsx
 *.csv
-*.json
 
 # Project-wide
 .DS_Store
